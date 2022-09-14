@@ -2,7 +2,7 @@
 I used Selenium Webdriver Version 4.4.0 with java . 
 I automate as required " Book Counter " process .
 
-#Test Case Required " Workflow "
+# Test Case Required " Workflow "
 1. Open Nagwa website in Arabic.
 2. Choose English language to open the home page.
 3. Click on Search icon .
@@ -18,14 +18,14 @@ I used Page object model to organize my script by writing every pages' locators 
 
 I used Excel Reader to read data from excel sheet as a Data Driven Development to make our inputs dynamic not hard coded in the script , i just put 2 rows and columns in the excel sheet as an example . 
 
-#BDD " Behaviour Driven Development "
+# BDD " Behaviour Driven Development "
 I used the bdd framework as an agile process that using a tool called " CUCUMBER " with Gherkin Language .
 Cucumber is a tool that used for writing acceptance test cases .
 
-#Maven 
+# Maven 
 I used maven to manage the dependencies i used for writing my script
 
-#Junit & TestNG
+# Junit & TestNG
 I used junit & TestNG annotations to organize and run my test cases .
 
 
